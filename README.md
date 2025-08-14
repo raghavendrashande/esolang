@@ -1,6 +1,6 @@
 # BasicLang
 
-BasicLang is a minimal, experimental esolang designed for simplicity and readability while still being quirky enough to stand out.  
+BasicLang is a minimal, experimental esoteric language designed for simplicity and readability while still being quirky enough to stand out.  
 It supports basic variables, loops, conditionals, printing, and program exit codes — all with a playful syntax.
 
 ## ✨ Syntax Overview
