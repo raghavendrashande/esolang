@@ -1,0 +1,10 @@
+imagine x = 1;
+doit (10) {
+    is ((x % 2) == 0) {
+        print("even");
+    } else {
+        print("odd");
+    }
+    x = x + 1;
+}
+yeet 255;
