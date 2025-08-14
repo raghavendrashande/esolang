@@ -88,6 +88,8 @@ even
 
 **Exit Code**: `255`
 
+[P.S -  To checkout exit code, use "echo $?" on linux, "echo %ERRORLEVEL%" in cmd or "$LASTEXITCODE" on powershell]
+
 ---
 
 ## 📜 License
